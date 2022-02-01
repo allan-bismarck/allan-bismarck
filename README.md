@@ -1,12 +1,12 @@
 # Olá, me chamo Allan Bismarck! ✔️ <img height="40em" width="40em" src="donkey-kong-dance.gif"/>
 ## Bem vindo ao meu perfil GitHub 👋
-### Atualmente sou Estudante 👨‍🎓 de Engenharia da Computação na UNIVASF. 🎓
-### Me interesso nas áreas de Engenharia de Software, Inteligência Artificial, Computação Gráfica, Desenvolvimento Web 🖥️ e Mobile 📱, tenho mais familiaridade com front-end, mas estou sempre em busca de conhecimento e tenho muita vontade de crescer e aprender! 👨‍💻
+### Atualmente sou Estudante 👨‍🎓 de Engenharia da Computação na UNIVASF. 🎓<br/>
+### Me interesso nas áreas de Engenharia de Software, Inteligência Artificial, Computação Gráfica, Desenvolvimento Web 🖥️ e Mobile 📱, tenho mais familiaridade com front-end, mas estou sempre em busca de conhecimento e tenho muita vontade de crescer e aprender! 👨‍💻<br/>
+  
 <div align="center">
   <a href="https://github.com/AllanBismarck123">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanBismarck123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanBismarck123&layout=compact&langs_count=7&theme=algolia"/>
-  <img height="180em" width="165em" src="doggo-good.gif"/>
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
     <a href="https://www.linkedin.com/in/allan-bismarck" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <a><img height="28" src="https://img.shields.io/badge/E--MAIL-allan__b95%40outlook.com-green?style=flat-square&logo=microsoftoutlook"</a>
 </div>
-
+  
 ##
 ### Linguagens
 <div style="display: inline_block">
