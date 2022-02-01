@@ -10,9 +10,8 @@
 
 <div align="center">
     <a href="https://instagram.com/allan__bismarck" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href=mailto:allan_bismarck@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href=mailto:allan_bismarck@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/allan-bismarck" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a><img height="28" src="https://img.shields.io/badge/E--MAIL-allan__b95%40outlook.com-green?style=flat-square&logo=microsoftoutlook"</a>
 </div>
 
 ##
@@ -43,7 +42,6 @@
 ##
 ### IDE's
 <div style="display: inline_block">
-  <img align="center" alt="Allan-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Allan-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Allan-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 </div>
