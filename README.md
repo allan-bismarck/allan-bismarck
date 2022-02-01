@@ -1,9 +1,10 @@
-# Olá, me chamo Allan Bismarck! ✔️
+# Olá, me chamo Allan Bismarck! ✔️ <img height="40em" width="40em" src="donkey-kong-dance.gif"/>
 ## Bem vindo ao meu perfil GitHub 👋
 ### Atualmente sou Estudante 👨‍🎓 de Engenharia da Computação na UNIVASF. 🎓
 ### Me interesso nas áreas de Engenharia de Software, Inteligência Artificial, Computação Gráfica, Desenvolvimento Web 🖥️ e Mobile 📱, tenho mais familiaridade com front-end, mas estou sempre em busca de conhecimento e tenho muita vontade de crescer e aprender! 👨‍💻
 <div align="center">
   <a href="https://github.com/AllanBismarck123">
+  <img height="180em" width="165em" src="doggo-good.gif"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanBismarck123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanBismarck123&layout=compact&langs_count=7&theme=algolia"/>
 </div>
