@@ -7,8 +7,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanBismarck123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanBismarck123&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
-### Linguagens e Bancos de Dados
+
+<div align="center">
+    <a href="https://instagram.com/allan__bismarck" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href=mailto:allan_bismarck@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href=mailto:allan_bismarck@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/allan-bismarck" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+##
+### Linguagens
 <div style="display: inline_block">
   <img align="center" alt="Allan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Allan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -17,26 +25,39 @@
   <img align="center" alt="Allan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Allan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Allan-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
+  
+##
+### Bancos de Dados
+<div style="display: inline_block">
   <img align="center" alt="Allan-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  />
   <img align="center" alt="Allan-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  />
 </div>
   
+##
 ### Frameworks
 <div style="display: inline_block">
   <img align="center" alt="Allan-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
   
-### IDE's e Ferramentas adicionais
+##
+### IDE's
 <div style="display: inline_block">
   <img align="center" alt="Allan-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="Allan-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Allan-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+</div>
+  
+##
+### Design
+<div style="display: inline_block">
   <img align="center" alt="Allan-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="Allan-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Allan-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img align="center" alt="Allan-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="Allan-Js" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/coreldraw-2021.png" />
 </div>
   
-  
+##
 <h3> Visitantes </h3>  
 <div>
   <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=AllanBismarck123&color=green" alt="AllanBismarck123" />
