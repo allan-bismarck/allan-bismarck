@@ -39,7 +39,7 @@
 </div>
   
 ##
-### Frameworks
+### Frameworks e API's
 <div style="display: inline_block">
   <img align="center" alt="Allan-flutter" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Allan-OpenGL" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg" />
