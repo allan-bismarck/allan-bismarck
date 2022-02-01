@@ -6,7 +6,7 @@
   <a href="https://github.com/AllanBismarck123">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanBismarck123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanBismarck123&layout=compact&langs_count=7&theme=algolia"/>
-  <img src="https://tenor.com/view/doggo-good-gamer-mcdonalds-puppy-gif-14662701" height="180em" />
+  <img src="https://tenor.com/view/hot-dog-trooper-dogs-cosplay-gif-10491496" height="180em" />
 </div>
 
 <div align="center">
