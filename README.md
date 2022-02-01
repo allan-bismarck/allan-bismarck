@@ -4,7 +4,7 @@
 
 ### Atualmente sou Estudante 👨‍🎓 de Engenharia da Computação na UNIVASF. 🎓
 ### Me interesso nas áreas de Engenharia de Software, Inteligência Artificial, Computação Gráfica, Desenvolvimento Web 🖥️ e Mobile 📱, tenho mais familiaridade com front-end, mas estou sempre em busca de conhecimento e tenho muita vontade de crescer e aprender! 👨‍💻 
-  
+##
 <br/>
 <br/>
 <div align="center">
