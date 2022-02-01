@@ -33,10 +33,11 @@
   <img align="center" alt="Allan-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Allan-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="Allan-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img align="center" alt="Allan-Js" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/coreldraw-2021.png" />
 </div>
   
   
 <h3> Visitantes </h3>  
 <div>
-  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=AllanBismarck123&color=green" alt="alexsgross" />
+  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=AllanBismarck123&color=green" alt="AllanBismarck123" />
 </div>  
