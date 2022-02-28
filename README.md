@@ -5,7 +5,7 @@
 
 ### I am currently a student 👨‍🎓 of Computer Engineering at UNIVASF. 🎓
 ### I am interested in the areas of Software Engineering, Artificial Intelligence, Computer Graphics and in particular Web Development 🖥️ or Mobile 📱, I'm more familiar with the front-end, but I'm always looking for knowledge and I really want to grow and learn! 👨‍💻 
-## I am currently looking for an internship opportunity as a Front-end Developer.
+## I'm looking for an internship opportunity as a Front-end Developer.
 <br/>
 <br/>
 <div align="center">
