@@ -1,11 +1,11 @@
 <a href="README_portuguese.md" target="_blank">Leia esta página em português</a>
-# Olá, me chamo Allan Bismarck! ✔️ <img height="40em" width="40em" src="donkey-kong-dance.gif"/>
-## Bem vindo ao meu perfil GitHub 👋
-<img align="left" height="180em" width="165em" src="doggo-good.gif"/> 
+# Hi, my name is Allan Bismarck! ✔️ <img height="40em" width="40em" src="donkey-kong-dance.gif"/>
+## Welcome to my GitHub profile 👋
+<img align="left" height="220em" width="185em" src="doggo-good.gif"/> 
 
-### Atualmente sou Estudante 👨‍🎓 de Engenharia da Computação na UNIVASF. 🎓
-### Me interesso nas áreas de Engenharia de Software, Inteligência Artificial, Computação Gráfica, Desenvolvimento Web 🖥️ e Mobile 📱, tenho mais familiaridade com front-end, mas estou sempre em busca de conhecimento e tenho muita vontade de crescer e aprender! 👨‍💻 
-##
+### I am currently a student 👨‍🎓 of Computer Engineering at UNIVASF. 🎓
+### I am interested in the areas of Software Engineering, Artificial Intelligence, Computer Graphics and in particular Web Development 🖥️ or Mobile 📱, I'm more familiar with the front-end, but I'm always looking for knowledge and I really want to grow and learn! 👨‍💻 
+## I am currently looking for an internship opportunity as a Front-end Developer.
 <br/>
 <br/>
 <div align="center">
