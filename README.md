@@ -4,10 +4,10 @@
 <img align="left" height="220em" width="185em" src="doggo-good.gif"/> 
 
 ### I am currently a student 👨‍🎓 of Computer Engineering at UNIVASF. 🎓
-### I am interested in the areas of Software Engineering, Artificial Intelligence, Computer Graphics and in particular Web Development 🖥️ or Mobile 📱, I'm more familiar with the front-end, but I'm always looking for knowledge and I really want to grow and learn! 👨‍💻 
+### I am interested in the areas of Software Engineering, Artificial Intelligence, Computer Graphics and in particular Web Development 🖥️ or Mobile 📱, I'm more familiar with the front-end, but I'm always looking for knowledge and I really want to grow and learn! 👨‍💻
+<br/>
+
 ## I'm looking for an internship opportunity as a Front-end Developer.
-<br/>
-<br/>
 <div align="center">
   <a href="https://github.com/AllanBismarck123">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanBismarck123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
