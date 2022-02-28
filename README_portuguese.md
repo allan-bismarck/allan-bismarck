@@ -1,7 +1,7 @@
 <a href="README.md" target="_blank">Read this page in english</a>
 # Olá, me chamo Allan Bismarck! ✔️ <img height="40em" width="40em" src="donkey-kong-dance.gif"/>
 ## Bem vindo ao meu perfil GitHub 👋
-<img align="left" height="250em" width="205em" src="doggo-good.gif"/> 
+<img align="left" height="220em" width="185em" src="doggo-good.gif"/> 
 
 ### Atualmente sou Estudante 👨‍🎓 de Engenharia da Computação na UNIVASF. 🎓
 ### Me interesso nas áreas de Engenharia de Software, Inteligência Artificial, Computação Gráfica, Desenvolvimento Web 🖥️ e Mobile 📱, tenho mais familiaridade com front-end, mas estou sempre em busca de conhecimento e tenho muita vontade de crescer e aprender! 👨‍💻 
