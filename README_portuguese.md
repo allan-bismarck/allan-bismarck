@@ -5,7 +5,7 @@
 
 ### Atualmente sou Estudante 👨‍🎓 de Engenharia da Computação na UNIVASF. 🎓
 ### Me interesso nas áreas de Engenharia de Software, Inteligência Artificial, Computação Gráfica, Desenvolvimento Web 🖥️ e Mobile 📱, tenho mais familiaridade com front-end, mas estou sempre em busca de conhecimento e tenho muita vontade de crescer e aprender! 👨‍💻 
-## Atualmente estou em busca de uma oportunidade de estágio como Desenvolvedor Front-end.
+## Busco uma oportunidade de estágio como Desenvolvedor Front-end.
 <br/>
 <br/>
 <div align="center">
