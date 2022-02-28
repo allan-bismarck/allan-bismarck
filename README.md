@@ -21,7 +21,7 @@
 </div>
   
 ##
-### Linguagens
+### Languages
 <div style="display: inline_block">
   <img align="center" alt="Allan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Allan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -33,14 +33,14 @@
 </div>
   
 ##
-### Bancos de Dados
+### Databases
 <div style="display: inline_block">
   <img align="center" alt="Allan-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  />
   <img align="center" alt="Allan-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  />
 </div>
   
 ##
-### Frameworks e API's
+### Frameworks and API's
 <div style="display: inline_block">
   <img align="center" alt="Allan-flutter" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Allan-OpenGL" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg" />
@@ -61,7 +61,7 @@
 </div>
   
 ##
-<h3> Visitantes </h3>  
+<h3> Visitors </h3>  
 <div>
   <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=AllanBismarck123&color=green" alt="AllanBismarck123" />
 </div>  
