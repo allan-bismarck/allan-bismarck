@@ -1,4 +1,4 @@
-<a href="https://instagram.com/allan__bismarck" target="_blank">Read in English</a>
+<a href="https://instagram.com/allan__bismarck" target="_blank">Leia esta página em português</a>
 # Olá, me chamo Allan Bismarck! ✔️ <img height="40em" width="40em" src="donkey-kong-dance.gif"/>
 ## Bem vindo ao meu perfil GitHub 👋
 <img align="left" height="180em" width="165em" src="doggo-good.gif"/> 
