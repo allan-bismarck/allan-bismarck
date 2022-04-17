@@ -62,5 +62,5 @@
 ##
 <h3> Visitantes </h3>  
 <div>
-  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=AllanBismarck123&color=green" alt="AllanBismarck123" />
+  <img align="center" alt="visitors" height="30" width="150" src="https://komarev.com/ghpvc/?username=AllanBismarck123&color=green" alt="AllanBismarck123" />
 </div>  
