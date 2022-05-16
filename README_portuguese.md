@@ -43,6 +43,7 @@
 <div style="display: inline_block">
   <img align="center" alt="Allan-flutter" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Allan-OpenGL" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg" />
+  <img align="center" alt="Allan-React" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
   
 ##
