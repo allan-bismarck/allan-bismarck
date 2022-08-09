@@ -1,5 +1,5 @@
 <a href="README.md" target="_blank">Read this page in english</a>
-# Olá, me chamo Allan Bismarck! ✔️ <img height="40em" width="40em" src="donkey-kong-dance.gif"/>
+# Olá, me chamo Allan Bismarck! <img height="40em" width="40em" src="donkey-kong-dance.gif"/>
 ## Bem vindo ao meu perfil GitHub 👋
 <img align="left" height="220em" width="185em" src="doggo-good.gif"/> 
 
