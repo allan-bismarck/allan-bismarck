@@ -1,5 +1,5 @@
 <a href="README_portuguese.md" target="_blank">Leia esta página em português</a>
-# Hi, my name is Allan Bismarck! ✔️ <img height="40em" width="40em" src="donkey-kong-dance.gif"/>
+# Hi, my name is Allan Bismarck! <img height="40em" width="40em" src="donkey-kong-dance.gif"/>
 ## Welcome to my GitHub profile 👋
 <img align="left" height="220em" width="185em" src="doggo-good.gif"/> 
 
