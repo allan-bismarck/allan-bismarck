@@ -4,8 +4,8 @@
 <img align="left" height="220em" width="185em" src="doggo-good.gif"/> 
 
 ### Atualmente sou Estudante 👨‍🎓 de Engenharia da Computação na UNIVASF. 🎓
-### Me interesso nas áreas de Engenharia de Software, Inteligência Artificial, Computação Gráfica, Desenvolvimento Web 🖥️ e Mobile 📱, tenho mais familiaridade com front-end, mas estou sempre em busca de conhecimento e tenho muita vontade de crescer e aprender! 👨‍💻 
-## Busco uma oportunidade de estágio como Desenvolvedor Front-end.
+### Me interesso na área da Engenharia de Software, Desenvolvimento Web 🖥️ e Mobile 📱, tenho mais familiaridade com front-end, mas estou sempre em busca de conhecimento e tenho muita vontade de crescer e aprender! 👨‍💻 
+## Busco uma oportunidade de em desenvolvimento Front-End, pode ser efetivado, trainee ou de preferência estágio.
 <br/>
 <div align="center">
   <a href="https://github.com/AllanBismarck123">
@@ -20,46 +20,44 @@
 </div>
   
 ##
-### Linguagens
+### Linguagens de Programação
 <div style="display: inline_block">
-  <img align="center" alt="Allan-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Allan-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Allan-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Allan-Ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Allan-dart" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" alt="Allan-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Allan-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Allan-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <a target="_blank"><img src="https://img.shields.io/badge/-JavaScript-%23E4405F?style=for-the-badge&logo=javascript&logoColor=yellow&color=black" target="_blank"></a>
+  <a href="https://instagram.com/allan__bismarck" target="_blank"><img src="https://img.shields.io/badge/-Dart-%23E4405F?style=for-the-badge&logo=Dart&logoColor=green&color=blue" target="_blank"></a>
+  <a href="https://instagram.com/allan__bismarck" target="_blank"><img src="https://img.shields.io/badge/-Python-%23E4405F?style=for-the-badge&logo=Python&logoColor=white&color=blue" target="_blank"></a>
+  <a href="https://instagram.com/allan__bismarck" target="_blank"><img src="https://img.shields.io/badge/-C-%23E4405F?style=for-the-badge&logo=C&logoColor=green&color=blue" target="_blank"></a>
+</div>
+
+### Linguagens de Marcação
+<div style="display: inline_block">
+  <a target="_blank"><img src="https://img.shields.io/badge/-HTML-%23E4405F?style=for-the-badge&logo=html5&logoColor=yellow&color=black" target="_blank"></a>
+  <a href="https://instagram.com/allan__bismarck" target="_blank"><img src="https://img.shields.io/badge/-CSS-%23E4405F?style=for-the-badge&logo=CSS3&logoColor=green&color=blue" target="_blank"></a>
+</div>
+
+### Frameworks
+<div style="display: inline_block">
+  <a target="_blank"><img src="https://img.shields.io/badge/-VueJS-%23E4405F?style=for-the-badge&logo=Vue.js&logoColor=yellow&color=black" target="_blank"></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/-React-%23E4405F?style=for-the-badge&logo=react&logoColor=green&color=blue" target="_blank"></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/-Flutter-%23E4405F?style=for-the-badge&logo=flutter&logoColor=green&color=blue" target="_blank"></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/-Material Design-%23E4405F?style=for-the-badge&logo=Material Design&logoColor=white&color=blue" target="_blank"></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/-Material Design Icons-%23E4405F?style=for-the-badge&logo=materialdesignicons&logoColor=green&color=blue" target="_blank"></a>
+</div>
+
+### Ferramentas
+<div style="display: inline_block">
+  <a target="_blank"><img src="https://img.shields.io/badge/-TypeScript-%23E4405F?style=for-the-badge&logo=typescript&logoColor=yellow&color=black" target="_blank"></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/-Axios-%23E4405F?style=for-the-badge&logo=axios&logoColor=green&color=blue" target="_blank"></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/-Figma-%23E4405F?style=for-the-badge&logo=Figma&logoColor=green&color=blue" target="_blank"></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/-Corel Draw-%23E4405F?style=for-the-badge&logo=CorelDraw&logoColor=white&color=blue" target="_blank"></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/-Photoshop-%23E4405F?style=for-the-badge&logo=photoshop&logoColor=green&color=blue" target="_blank"></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/-Visual Studio Code-%23E4405F?style=for-the-badge&logo=visualstudiocode&logoColor=green&color=blue" target="_blank"></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/-Postman-%23E4405F?style=for-the-badge&logo=postman&logoColor=green&color=blue" target="_blank"></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/-Git-%23E4405F?style=for-the-badge&logo=git&logoColor=green&color=blue" target="_blank"></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/-Git Hub-%23E4405F?style=for-the-badge&logo=github&logoColor=green&color=blue" target="_blank"></a>
 </div>
   
-##
 ### Bancos de Dados
-<div style="display: inline_block">
-  <img align="center" alt="Allan-mongodb" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  />
-  <img align="center" alt="Allan-postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  />
-</div>
-  
-##
-### Frameworks e API's
-<div style="display: inline_block">
-  <img align="center" alt="Allan-flutter" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Allan-OpenGL" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg" />
-  <img align="center" alt="Allan-React" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-</div>
-  
-##
-### IDE's
-<div style="display: inline_block">
-  <img align="center" alt="Allan-visualstudio" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-</div>
-  
-##
-### Design
-<div style="display: inline_block">
-  <img align="center" alt="Allan-figma" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Allan-photoshop" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img align="center" alt="Allan-coreldraw" height="50" width="50" src="https://img.icons8.com/fluency/48/000000/coreldraw-2021.png" />
-</div>
+   <a target="_blank"><img src="https://img.shields.io/badge/-PostgreSQL-%23E4405F?style=for-the-badge&logo=postgresql&logoColor=green&color=black" target="_blank"></a>
   
 ##
 <h3> Visitantes </h3>  
