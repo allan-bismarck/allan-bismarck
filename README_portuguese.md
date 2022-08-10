@@ -5,7 +5,7 @@
 
 ### Atualmente sou Estudante 👨‍🎓 de Engenharia da Computação na UNIVASF. 🎓
 ### Me interesso na área da Engenharia de Software, Desenvolvimento Web 🖥️ e Mobile 📱, tenho mais familiaridade com front-end, mas estou sempre em busca de conhecimento e tenho muita vontade de crescer e aprender! 👨‍💻 
-## Busco uma oportunidade de em desenvolvimento Front-End, pode ser efetivado, trainee ou de preferência estágio.
+## Busco uma oportunidade em Desenvolvimento Front-End, pode ser como junior, trainee ou de preferência estágio.
 <br/>
 <div align="center">
   <a href="https://github.com/AllanBismarck123">
