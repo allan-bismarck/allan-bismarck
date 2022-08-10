@@ -22,6 +22,39 @@
 </div>
   
 ##
+### Programming Languages
+<div style="display: inline_block">
+  <a target="_blank"><img src="https://img.shields.io/badge/-JavaScript-%23E4405F?style=for-the-badge&logo=javascript&logoColor=yellow&color=black" target="_blank"></a>
+  <a href="https://instagram.com/allan__bismarck" target="_blank"><img src="https://img.shields.io/badge/-Dart-%23E4405F?style=for-the-badge&logo=Dart&logoColor=green&color=blue" target="_blank"></a>
+  <a href="https://instagram.com/allan__bismarck" target="_blank"><img src="https://img.shields.io/badge/-Python-%23E4405F?style=for-the-badge&logo=Python&logoColor=white&color=blue" target="_blank"></a>
+  <a href="https://instagram.com/allan__bismarck" target="_blank"><img src="https://img.shields.io/badge/-C-%23E4405F?style=for-the-badge&logo=C&logoColor=green&color=blue" target="_blank"></a>
+</div>
+
+### Marking Languages
+<div style="display: inline_block">
+  <a target="_blank"><img src="https://img.shields.io/badge/-HTML-%23E4405F?style=for-the-badge&logo=html5&logoColor=yellow&color=black" target="_blank"></a>
+  <a href="https://instagram.com/allan__bismarck" target="_blank"><img src="https://img.shields.io/badge/-CSS-%23E4405F?style=for-the-badge&logo=CSS3&logoColor=green&color=blue" target="_blank"></a>
+</div>
+
+### Frameworks
+<div style="display: inline_block">
+  <a target="_blank"><img src="https://img.shields.io/badge/-VueJS-%23E4405F?style=for-the-badge&logo=Vue.js&logoColor=yellow&color=black" target="_blank"></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/-React-%23E4405F?style=for-the-badge&logo=react&logoColor=green&color=blue" target="_blank"></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/-Flutter-%23E4405F?style=for-the-badge&logo=flutter&logoColor=green&color=blue" target="_blank"></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/-Material Design-%23E4405F?style=for-the-badge&logo=Material Design&logoColor=white&color=blue" target="_blank"></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/-Material Design Icons-%23E4405F?style=for-the-badge&logo=materialdesignicons&logoColor=green&color=blue" target="_blank"></a>
+</div>
+
+### Tools
+<div style="display: inline_block">
+  <a target="_blank"><img src="https://img.shields.io/badge/-TypeScript-%23E4405F?style=for-the-badge&logo=typescript&logoColor=yellow&color=black" target="_blank"></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/-Axios-%23E4405F?style=for-the-badge&logo=axios&logoColor=green&color=blue" target="_blank"></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/-Figma-%23E4405F?style=for-the-badge&logo=Figma&logoColor=green&color=blue" target="_blank"></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/-Corel Draw-%23E4405F?style=for-the-badge&logo=CorelDraw&logoColor=white&color=blue" target="_blank"></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/-Photoshop-%23E4405F?style=for-the-badge&logo=photoshop&logoColor=green&color=blue" target="_blank"></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/-Visual Studio Code-%23E4405F?style=for-the-badge&logo=visualstudiocode&logoColor=green&color=blue" target="_blank"></a>
+</div>
+
 ### Languages
 <div style="display: inline_block">
   <img align="center" alt="Allan-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
