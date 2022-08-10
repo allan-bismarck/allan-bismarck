@@ -53,48 +53,13 @@
   <a target="_blank"><img src="https://img.shields.io/badge/-Corel Draw-%23E4405F?style=for-the-badge&logo=CorelDraw&logoColor=white&color=blue" target="_blank"></a>
   <a target="_blank"><img src="https://img.shields.io/badge/-Photoshop-%23E4405F?style=for-the-badge&logo=photoshop&logoColor=green&color=blue" target="_blank"></a>
   <a target="_blank"><img src="https://img.shields.io/badge/-Visual Studio Code-%23E4405F?style=for-the-badge&logo=visualstudiocode&logoColor=green&color=blue" target="_blank"></a>
-</div>
-
-### Languages
-<div style="display: inline_block">
-  <img align="center" alt="Allan-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Allan-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Allan-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Allan-Ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Allan-dart" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" alt="Allan-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Allan-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Allan-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <a target="_blank"><img src="https://img.shields.io/badge/-Postman-%23E4405F?style=for-the-badge&logo=postman&logoColor=green&color=blue" target="_blank"></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/-Git-%23E4405F?style=for-the-badge&logo=git&logoColor=green&color=blue" target="_blank"></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/-Git Hub-%23E4405F?style=for-the-badge&logo=github&logoColor=green&color=blue" target="_blank"></a>
 </div>
   
-##
-### Databases
-<div style="display: inline_block">
-  <img align="center" alt="Allan-mongodb" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  />
-  <img align="center" alt="Allan-postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  />
-</div>
-  
-##
-### Frameworks and API's
-<div style="display: inline_block">
-  <img align="center" alt="Allan-flutter" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Allan-OpenGL" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg" />
-  <img align="center" alt="Allan-React" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-</div>
-  
-##
-### IDE's
-<div style="display: inline_block">
-  <img align="center" alt="Allan-visualstudio" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-</div>
-  
-##
-### Design
-<div style="display: inline_block">
-  <img align="center" alt="Allan-figma" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Allan-photoshop" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img align="center" alt="Allan-coreldraw" height="50" width="50" src="https://img.icons8.com/fluency/48/000000/coreldraw-2021.png" />
-</div>
+### Data Bases
+   <a target="_blank"><img src="https://img.shields.io/badge/-PostgreSQL-%23E4405F?style=for-the-badge&logo=postgresql&logoColor=green&color=black" target="_blank"></a>
   
 ##
 <h3> Visitors </h3>  
