@@ -4,10 +4,9 @@
 <img align="left" height="220em" width="185em" src="doggo-good.gif"/> 
 
 ### I am currently a student 👨‍🎓 of Computer Engineering at UNIVASF. 🎓
-### I am interested in the areas of Software Engineering, Artificial Intelligence, Computer Graphics and in particular Web Development 🖥️ or Mobile 📱, I'm more familiar with the front-end, but I'm always looking for knowledge and I really want to grow and learn! 👨‍💻
+### I'm interested in Software Engineering, Web Development 🖥️ and Mobile 📱, I'm more familiar with the front-end, but I'm always looking for knowledge and I'm eager to grow and learn! 👨‍💻
+## I'm looking for an opportunity in Front-End Development, it can be as a junior, trainee or preferably internship.
 <br/>
-
-## I'm looking for an internship opportunity as a Front-end Developer.
 <br/>
 <div align="center">
   <a href="https://github.com/AllanBismarck123">
