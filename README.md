@@ -23,45 +23,48 @@
 ##
 ### Programming Languages
 <div style="display: inline_block">
-  <a target="_blank"><img src="https://img.shields.io/badge/-JavaScript-%23E4405F?style=for-the-badge&logo=javascript&logoColor=yellow&color=black" target="_blank"></a>
-  <a href="https://instagram.com/allan__bismarck" target="_blank"><img src="https://img.shields.io/badge/-Dart-%23E4405F?style=for-the-badge&logo=Dart&logoColor=green&color=blue" target="_blank"></a>
-  <a href="https://instagram.com/allan__bismarck" target="_blank"><img src="https://img.shields.io/badge/-Python-%23E4405F?style=for-the-badge&logo=Python&logoColor=white&color=blue" target="_blank"></a>
-  <a href="https://instagram.com/allan__bismarck" target="_blank"><img src="https://img.shields.io/badge/-C-%23E4405F?style=for-the-badge&logo=C&logoColor=green&color=blue" target="_blank"></a>
+  <a target="_blank" ><img height="40" width="180" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
+  <a target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" target="_blank"></a>
+  <a target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
+  <a target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank"></a>
 </div>
 
 ### Marking Languages
 <div style="display: inline_block">
-  <a target="_blank"><img src="https://img.shields.io/badge/-HTML-%23E4405F?style=for-the-badge&logo=html5&logoColor=yellow&color=black" target="_blank"></a>
-  <a href="https://instagram.com/allan__bismarck" target="_blank"><img src="https://img.shields.io/badge/-CSS-%23E4405F?style=for-the-badge&logo=CSS3&logoColor=green&color=blue" target="_blank"></a>
+  <a target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+  <a target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
+  <a target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" target="_blank"></a>
 </div>
 
 ### Frameworks
 <div style="display: inline_block">
-  <a target="_blank"><img src="https://img.shields.io/badge/-VueJS-%23E4405F?style=for-the-badge&logo=Vue.js&logoColor=yellow&color=black" target="_blank"></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/-React-%23E4405F?style=for-the-badge&logo=react&logoColor=green&color=blue" target="_blank"></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/-Flutter-%23E4405F?style=for-the-badge&logo=flutter&logoColor=green&color=blue" target="_blank"></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/-Material Design-%23E4405F?style=for-the-badge&logo=Material Design&logoColor=white&color=blue" target="_blank"></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/-Material Design Icons-%23E4405F?style=for-the-badge&logo=materialdesignicons&logoColor=green&color=blue" target="_blank"></a>
+  <a target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" target="_blank"></a>
+  <a target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
+  <a target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="_blank"></a>
+  <a target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/-Material Design-757575?style=for-the-badge&logo=Material Design&logoColor=white" target="_blank"></a>
+  <a target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/-Material Design Icons-2196F3?style=for-the-badge&logo=materialdesignicons&logoColor=white" target="_blank"></a>
+</div>
+
+### Data Bases
+<div style="display: inline_block">
+   <a target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"></a>
 </div>
 
 ### Tools
 <div style="display: inline_block">
-  <a target="_blank"><img src="https://img.shields.io/badge/-TypeScript-%23E4405F?style=for-the-badge&logo=typescript&logoColor=yellow&color=black" target="_blank"></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/-Axios-%23E4405F?style=for-the-badge&logo=axios&logoColor=green&color=blue" target="_blank"></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/-Figma-%23E4405F?style=for-the-badge&logo=Figma&logoColor=green&color=blue" target="_blank"></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/-Corel Draw-%23E4405F?style=for-the-badge&logo=CorelDraw&logoColor=white&color=blue" target="_blank"></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/-Photoshop-%23E4405F?style=for-the-badge&logo=photoshop&logoColor=green&color=blue" target="_blank"></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/-Visual Studio Code-%23E4405F?style=for-the-badge&logo=visualstudiocode&logoColor=green&color=blue" target="_blank"></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/-Postman-%23E4405F?style=for-the-badge&logo=postman&logoColor=green&color=blue" target="_blank"></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/-Git-%23E4405F?style=for-the-badge&logo=git&logoColor=green&color=blue" target="_blank"></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/-Git Hub-%23E4405F?style=for-the-badge&logo=github&logoColor=green&color=blue" target="_blank"></a>
+  <a target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a>
+  <a target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/-Axios-262626?style=for-the-badge&logo=axios&logoColor=366CE6" target="_blank"></a>
+  <a target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/-Figma-F2F2F2?style=for-the-badge&logo=Figma&logoColor=black" target="_blank"></a>
+  <a target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/-Corel Draw-%23E4405F?style=for-the-badge&logo=CorelDraw&logoColor=white" target="_blank"></a>
+  <a target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/-Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF&textColor=black" target="_blank"></a>
+  <a target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" target="_blank"></a>
+  <a target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" target="_blank"></a>
+  <a target="_blank"><img height="40" width="100" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
+  <a target="_blank"><img height="40" width="140" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
-  
-### Data Bases
-   <a target="_blank"><img src="https://img.shields.io/badge/-PostgreSQL-%23E4405F?style=for-the-badge&logo=postgresql&logoColor=green&color=black" target="_blank"></a>
   
 ##
 <h3> Visitors </h3>  
 <div>
-  <img align="center" alt="visitors" height="40" width="200" src="https://komarev.com/ghpvc/?username=AllanBismarck123&color=green" alt="AllanBismarck123" />
+  <img align="center" alt="visitors" height="40" width="230" src="https://komarev.com/ghpvc/?username=AllanBismarck123&color=blue" alt="AllanBismarck123" />
 </div>  
