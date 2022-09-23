@@ -4,8 +4,7 @@
 <img align="left" height="220em" width="185em" src="doggo-good.gif"/> 
 
 ### I am currently a student 👨‍🎓 of Computer Engineering at UNIVASF. 🎓
-### I'm interested in Software Engineering, Web Development 🖥️ and Mobile 📱, I'm more familiar with the front-end, but I'm always looking for knowledge and I'm eager to grow and learn! 👨‍💻
-## I'm looking for an opportunity in Front-End Development, it can be as a junior, trainee or preferably internship.
+### I'm looking for an opportunity as a mobile developer 📱, I have academic and personal experiences with Flutter, I accept proposals as a junior, trainee and freelancer.
 <br/>
 <br/>
 <div align="center">
