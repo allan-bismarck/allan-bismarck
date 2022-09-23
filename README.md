@@ -7,6 +7,8 @@
 ### I'm looking for an opportunity as a mobile developer 📱, I have academic and personal experiences with Flutter, I accept proposals as a junior, trainee and freelancer.
 <br/>
 <br/>
+<br/>
+<br/>
 <div align="center">
   <a href="https://github.com/AllanBismarck123">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanBismarck123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
