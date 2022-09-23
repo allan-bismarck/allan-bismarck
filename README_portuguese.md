@@ -4,8 +4,7 @@
 <img align="left" height="220em" width="185em" src="doggo-good.gif"/> 
 
 ### Atualmente sou Estudante 👨‍🎓 de Engenharia da Computação na UNIVASF. 🎓
-### Me interesso na área da Engenharia de Software, Desenvolvimento Web 🖥️ e Mobile 📱, tenho mais familiaridade com front-end, mas estou sempre em busca de conhecimento e tenho muita vontade de crescer e aprender! 👨‍💻 
-## Busco uma oportunidade em Desenvolvimento Front-End, pode ser como junior, trainee ou de preferência estágio.
+## Busco uma oportunidade como desenvolvedor mobile 📱, tenho experiências acadêmicas e pessoais com Flutter, aceito propostas como júnior, trainee e freelance.
 <br/>
 <div align="center">
   <a href="https://github.com/AllanBismarck123">
