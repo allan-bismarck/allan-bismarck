@@ -23,25 +23,14 @@
 </div>
   
 ##
-### Programming Languages
+### Main Programming Languages
 <div style="display: inline_block">
   <a target="_blank" ><img height="40" width="180" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
   <a target="_blank"><img height="40" width="120" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" target="_blank"></a>
-  <a target="_blank"><img height="40" width="140" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
-  <a target="_blank"><img height="40" width="90" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank"></a>
-</div>
-
-### Marking Languages
-<div style="display: inline_block">
-  <a target="_blank"><img height="40" width="130" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
-  <a target="_blank"><img height="40" width="120" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
-  <a target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" target="_blank"></a>
 </div>
 
 ### Frameworks
 <div style="display: inline_block">
-  <a target="_blank"><img height="40" width="130" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" target="_blank"></a>
-  <a target="_blank"><img height="40" width="140" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
   <a target="_blank"><img height="40" width="150" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="_blank"></a>
   <a target="_blank"><img height="40" width="250" src="https://img.shields.io/badge/-Material Design-757575?style=for-the-badge&logo=Material Design&logoColor=white" target="_blank"></a>
   <a target="_blank"><img height="40" width="320" src="https://img.shields.io/badge/-Material Design Icons-2196F3?style=for-the-badge&logo=materialdesignicons&logoColor=white" target="_blank"></a>
@@ -52,9 +41,16 @@
    <a target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"></a>
 </div>
 
-### Tools
+### Other knowledges
 <div style="display: inline_block">
+  <a target="_blank"><img height="40" width="130" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+  <a target="_blank"><img height="40" width="120" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
+  <a target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" target="_blank"></a>
+  <a target="_blank" ><img height="40" width="180" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
+  <a target="_blank"><img height="40" width="140" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
+  <a target="_blank"><img height="40" width="90" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank"></a>
   <a target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a>
+  <a target="_blank"><img height="40" width="130" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" target="_blank"></a>
   <a target="_blank"><img height="40" width="100" src="https://img.shields.io/badge/-Axios-262626?style=for-the-badge&logo=axios&logoColor=366CE6" target="_blank"></a>
   <a target="_blank"><img height="40" width="140" src="https://img.shields.io/badge/-Figma-F2F2F2?style=for-the-badge&logo=Figma&logoColor=black" target="_blank"></a>
   <a target="_blank"><img height="40" width="150" src="https://img.shields.io/badge/-Corel Draw-%23E4405F?style=for-the-badge&logo=CorelDraw&logoColor=white" target="_blank"></a>
