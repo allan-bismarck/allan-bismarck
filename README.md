@@ -3,8 +3,8 @@
 ## Welcome to my GitHub profile 👋
 <img align="left" height="220em" width="185em" src="doggo-good.gif"/> 
 
-### I am currently a student 👨‍🎓 of Computer Engineering at UNIVASF. 🎓
-### I'm looking for an opportunity as a mobile developer 📱, I have academic and personal experiences with Flutter, I accept proposals as a junior, trainee and freelancer.
+### I have a degree in Computer Engineering at UNIVASF. 🎓
+### I'm looking for an opportunity as a mobile developer 📱, I have academic and personal experiences with Flutter and Android, I accept proposals as a junior, trainee and freelancer.
 <br/>
 <br/>
 <br/>
