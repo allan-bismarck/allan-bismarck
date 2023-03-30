@@ -3,8 +3,8 @@
 ## Bem vindo ao meu perfil GitHub 👋
 <img align="left" height="220em" width="185em" src="doggo-good.gif"/> 
 
-### Atualmente sou Estudante 👨‍🎓 de Engenharia da Computação na UNIVASF. 🎓
-## Busco uma oportunidade como desenvolvedor mobile 📱, tenho experiências acadêmicas e pessoais com Flutter, aceito propostas como júnior, trainee e freelance.
+### Sou formado em Engenharia da Computação na UNIVASF. 🎓
+## Busco uma oportunidade como desenvolvedor mobile 📱, tenho experiências acadêmicas e pessoais com Flutter e Android, aceito propostas como júnior, trainee e freelance.
 <br/>
 <br/>
 <br/>
