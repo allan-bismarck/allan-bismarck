@@ -51,12 +51,7 @@
   <a target="_blank" ><img height="40" width="180" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
   <a target="_blank"><img height="40" width="140" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
   <a target="_blank"><img height="40" width="90" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank"></a>
-  <a target="_blank"><img height="40" width="130" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" target="_blank"></a>
-  <a target="_blank"><img height="40" width="250" src="https://img.shields.io/badge/-Material Design-757575?style=for-the-badge&logo=Material Design&logoColor=white" target="_blank"></a>
-  <a target="_blank"><img height="40" width="320" src="https://img.shields.io/badge/-Material Design Icons-2196F3?style=for-the-badge&logo=materialdesignicons&logoColor=white" target="_blank"></a>
   <a target="_blank"><img height="40" width="140" src="https://img.shields.io/badge/-Figma-F2F2F2?style=for-the-badge&logo=Figma&logoColor=black" target="_blank"></a>
-  <a target="_blank"><img height="40" width="150" src="https://img.shields.io/badge/-Corel Draw-%23E4405F?style=for-the-badge&logo=CorelDraw&logoColor=white" target="_blank"></a>
-  <a target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/-Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF&textColor=black" target="_blank"></a>
   <a target="_blank"><img height="40" width="100" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
   <a target="_blank"><img height="40" width="140" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
