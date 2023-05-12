@@ -1,11 +1,10 @@
 <a href="README.md" target="_blank">Read this page in english</a>
-# Olá, me chamo Allan Bismarck! <img height="40em" width="40em" src="donkey-kong-dance.gif"/>
+# Olá, me chamo Allan Bismarck!
 ## Bem vindo ao meu perfil GitHub 👋
-<img align="left" height="220em" width="185em" src="doggo-good.gif"/> 
+<div align="center"><img height="250em" width="215em" src="doggo-good.gif"/></div>
 
 ### Sou formado em Engenharia da Computação na UNIVASF. 🎓
-## Busco uma oportunidade como desenvolvedor mobile 📱, tenho experiências acadêmicas e pessoais com Flutter e Android, aceito propostas como júnior, trainee e freelance.
-<br/>
+## Tenho experiências acadêmicas e pessoais com Flutter e Android.
 <br/>
 <br/>
 <div align="center">
