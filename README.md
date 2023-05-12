@@ -1,13 +1,10 @@
 <a href="README_portuguese.md" target="_blank">Leia esta página em português</a>
 # Hi, my name is Allan Bismarck!
 ## Welcome to my GitHub profile 👋
-<img align="left" height="220em" width="185em" src="doggo-good.gif"/> 
+<div align="center"><img height="250em" width="215em" src="doggo-good.gif"/></div>
 
 ### I have a degree in Computer Engineering at UNIVASF. 🎓
 ### I have academic and personal experiences with Flutter and Android.
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <div align="center">
