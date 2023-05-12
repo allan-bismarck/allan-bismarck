@@ -4,7 +4,7 @@
 <img align="left" height="220em" width="185em" src="doggo-good.gif"/> 
 
 ### I have a degree in Computer Engineering at UNIVASF. 🎓
-### I'm looking for an opportunity as a mobile developer 📱, I have academic and personal experiences with Flutter and Android, I accept proposals as a junior, trainee and freelancer.
+### I have academic and personal experiences with Flutter and Android.
 <br/>
 <br/>
 <br/>
