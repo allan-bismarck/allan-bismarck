@@ -60,7 +60,7 @@
   <div><a target="_blank" href="https://play.google.com/store/apps/details?id=com.app.calculadora_gasto_calorico"><img height="40" width="400" src="https://img.shields.io/badge/Calculadora de Gasto Calórico-7B44F2?style=for-the-badge" target="_blank"></a></div>
   <div><a target="_blank" href="https://play.google.com/store/apps/details?id=com.app.gestordeperfumaria&hl=pt_BR&gl=US"><img height="40" width="300" src="https://img.shields.io/badge/Gestor de Perfumaria-BF0449?style=for-the-badge" target="_blank"></a></div>
   <div><a target="_blank" href="https://play.google.com/store/apps/details?id=com.app.paciencia_spider"><img height="40" width="250" src="https://img.shields.io/badge/Paciência Spider-1AD937?style=for-the-badge" target="_blank"></a></div>
-  <div><a target="_blank" href="https://play.google.com/store/apps/details?id=com.app.fitbalance&pli=1"><img height="40" width="150" src="https://img.shields.io/badge/FitBalance-00FFFF?style=for-the-badge" target="_blank"></a></div>
+  <div><a target="_blank" href="https://play.google.com/store/apps/details?id=com.app.fitbalance&pli=1"><img height="40" width="180" src="https://img.shields.io/badge/FitBalance-00FFFF?style=for-the-badge" target="_blank"></a></div>
 </div>
   
 ##
