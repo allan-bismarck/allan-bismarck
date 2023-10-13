@@ -54,6 +54,13 @@
   <a target="_blank"><img height="40" width="100" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
   <a target="_blank"><img height="40" width="140" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
+
+### Meus aplicativos na play store
+<div style="display: inline_block">
+  <div><a target="_blank" href="https://play.google.com/store/apps/details?id=com.app.calculadora_gasto_calorico">Calculadora de Percentual de Gordura</a></div>
+  <div><a target="_blank" href="https://play.google.com/store/apps/details?id=com.app.gestordeperfumaria&hl=pt_BR&gl=US">Gestor de Perfumaria</a></div>
+  <div><a target="_blank" href="https://play.google.com/store/apps/details?id=com.app.paciencia_spider">Paciência Spider</a></div>
+</div>
   
 ##
 <h3> Visitantes </h3>  
