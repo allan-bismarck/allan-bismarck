@@ -4,7 +4,7 @@
 <div align="center"><img height="250em" width="215em" src="doggo-good.gif"/></div>
 
 ### Sou formado em Engenharia da Computação na UNIVASF. 🎓
-## Minhas habilidades são mais direcionadas ao desenvolvimento mobile com Flutter e Android Nativo com Kotlin, mas tenho alguns conhecimentos em desenvolvimento front end com React e também alguns conhecimentos em back end com Node.js e Docker. Em meus projetos, já utilizei alguns bancos de dados como MongoDB, SQLITE, bancos SQL e Firebase.
+#### Minhas habilidades são mais direcionadas ao desenvolvimento mobile com Flutter e Android Nativo com Kotlin, mas tenho alguns conhecimentos em desenvolvimento front end com React e também alguns conhecimentos em back end com Node.js e Docker. Em meus projetos, já utilizei alguns bancos de dados como MongoDB, SQLITE, bancos SQL e Firebase.
 <br/>
 <br/>
 <div align="center">
