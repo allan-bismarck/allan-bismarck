@@ -4,7 +4,7 @@
 <div align="center"><img height="250em" width="215em" src="doggo-good.gif"/></div>
 
 ### I have a degree in Computer Engineering at UNIVASF. 🎓
-#### My skills are more focused on mobile development with Flutter and Native Android with Kotlin, but I have some knowledge in front end development with React and also some knowledge in back end with Node.js and Docker. In my projects, I have already used some databases such as MongoDB, SQLITE, SQL databases and Firebase.
+### My skills are more focused on mobile development with Flutter and Native Android with Kotlin, but I have some knowledge in front end development with React and also some knowledge in back end with Node.js and Docker. In my projects, I have already used some databases such as MongoDB, SQLITE, SQL databases and Firebase.
 <br/>
 <br/>
 <div align="center">
