@@ -2,9 +2,8 @@
 # Olá, me chamo Allan Bismarck!
 ## Bem vindo ao meu perfil GitHub 👋
 <div align="center"><img height="250em" width="215em" src="doggo-good.gif"/></div>
-
-### Sou formado em Engenharia da Computação na UNIVASF. 🎓
-### Minhas habilidades são mais direcionadas ao desenvolvimento mobile com Flutter e Android Nativo com Kotlin, mas tenho alguns conhecimentos em desenvolvimento front end com React e também alguns conhecimentos em back end com Node.js e Docker. Em meus projetos, já utilizei alguns bancos de dados como MongoDB, SQLITE, bancos SQL e Firebase.
+ 
+### Oi! Sou um apaixonado Desenvolvedor Front End Junior com uma formação sólida em Engenharia de Computação pela UNIVASF 🎓. Ao longo do último ano, mergulhei em um mundo de código e inovação, aprimorando minhas habilidades em diversas tecnologias. 
 <br/>
 <br/>
 <div align="center">
@@ -26,12 +25,6 @@
   <a target="_blank"><img height="40" width="120" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" target="_blank"></a>
   <a target="_blank" ><img height="40" width="180" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
 </div>
-
-## Mobile
-<div style="display: inline_block">
-  <a target="_blank"><img height="40" width="150" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="_blank"></a>
-  <a target="_blank"><img height="40" width="150" src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white" target="_blank"></a>
-</div>
   
 ## IDE's
 <div style="display: inline_block">
@@ -47,7 +40,11 @@
   <div><a target="_blank" href="https://play.google.com/store/apps/details?id=com.app.fitbalance&pli=1"><img height="40" width="180" src="https://img.shields.io/badge/FitBalance-00FFFF?style=for-the-badge" target="_blank"></a></div>
 </div>
 
-## Outros conhecimentos
+### Mobile
+<div style="display: inline_block">
+  <a target="_blank"><img height="40" width="150" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="_blank"></a>
+  <a target="_blank"><img height="40" width="150" src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white" target="_blank"></a>
+</div>
 
 ### Front end
 <div style="display: inline_block">
