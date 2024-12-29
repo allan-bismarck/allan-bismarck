@@ -3,7 +3,7 @@
 ## Welcome to my GitHub profile 👋
 <div align="center"><img height="250em" width="215em" src="doggo-good.gif"/></div>
 
-### Hey! I am a passionate Junior Front End Developer with a solid background in Computer Engineering from UNIVASF 🎓. Over the past year, I have immersed myself in a world of code and innovation, honing my skills across a variety of technologies.
+### Hey! I am a passionate Full Stack Developer with a solid background in Computer Engineering from UNIVASF 🎓. Over the past year, I have immersed myself in a world of code and innovation, honing my skills across a variety of technologies.
 <br/>
 <br/>
 <div align="center">
